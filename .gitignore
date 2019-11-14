@@ -1,0 +1,6 @@
+# IntelliJ Rust Plugin
+.idea/
+
+# Rust
+/target
+**/*.rs.bk
