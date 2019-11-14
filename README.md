@@ -1,5 +1,5 @@
 # roar
 
-Simply Rust binary create to raise OS notifications
+Simply Rust binary crate to raise OS notifications
 
 
